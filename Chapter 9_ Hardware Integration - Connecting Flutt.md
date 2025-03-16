@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 9: Hardware Integration - Connecting Flutter to the Physical World
 
 Welcome to perhaps the most exciting chapter in our Flutter journey—the one where your apps break free from the confines of the screen and begin interacting with the physical world! If you've ever wanted to build apps that respond to motion, capture photos, track location, or even control external hardware, this is your moment. By the end of this chapter, you'll understand how Flutter connects with device hardware and external systems, enabling you to create truly immersive experiences for your users.
