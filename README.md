@@ -1,6 +1,7 @@
 # Flutter Development Masterclass: Build Cross-Platform Apps in 2025
 
-## Book Overview
+## Book Author
+E.M. Redwood is a versatile storyteller whose work spans young adult fantasy and AI fiction. Drawing inspiration from both the natural world and the evolving digital landscape, Redwood creates narratives that blend adventure, magic, and innovative technological themes with thoughtful social commentary. When not writing, Redwood explores the diverse landscapes of the Pacific Northwest—from its forests to its coastlines—in search of inspiration and new perspectives. Committed to the belief that stories can inspire meaningful change, Redwood crafts tales designed to spark curiosity and foster a deeper understanding of both our environment and the future of technology.
 
 ### Introduction
 
