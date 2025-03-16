@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 3: Dart Essentials - The Language That Powers Flutter
 
 Welcome to your crash course in Dart programming! I know what some of you might be thinking: "Great, another programming language to learn." But I promise you, Dart is worth your time. It's modern, approachable, and specifically designed for building user interfaces. By the end of this chapter, you'll have a solid foundation in Dart that will make your Flutter journey significantly smoother.
