@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 10: Backend Integration - Taking Your Flutter App to the Cloud
 
 Welcome to one of the most transformative chapters in your Flutter journey! So far, we've been building beautiful UIs, managing state, handling navigation, and styling our apps—but they've been mostly self-contained islands of functionality. Now it's time to connect your Flutter apps to the outside world. By the end of this chapter, you'll know how to integrate your Flutter applications with backend services, allowing you to store data in the cloud, authenticate users, and create truly dynamic applications that can scale to millions of users.
