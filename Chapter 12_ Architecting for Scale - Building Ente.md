@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 12: Architecting for Scale - Building Enterprise-Grade Flutter Apps
 
 Welcome to what might be the most transformative chapter in your Flutter journey! If you've been following along, you've already built beautiful UIs, managed state, navigated between screens, styled your apps, created animations, integrated with hardware, connected to backends, and deployed to app stores. But there's a question that often emerges as Flutter projects grow from simple apps to complex enterprise applications: "How do we keep this codebase maintainable as it scales?"
