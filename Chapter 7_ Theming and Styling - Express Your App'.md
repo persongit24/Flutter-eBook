@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 7: Theming and Styling - Express Your App's Personality
 
 Welcome to the chapter that will transform your Flutter apps from "functional" to "wow, who designed this?!" If widgets are the skeleton of your app, themes are its skin, clothing, and overall fashion sense. By the end of this chapter, you'll be the Flutter equivalent of a fashion designer, crafting beautiful, consistent, and personalized app experiences that users will remember.
