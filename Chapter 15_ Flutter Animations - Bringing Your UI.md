@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 15: Flutter Animations - Bringing Your UI to Life
 
 Welcome to one of the most exciting chapters in your Flutter journey! Animation is what transforms your app from a static collection of screens into a dynamic, engaging experience that delights users and communicates your app's personality. By the end of this chapter, you'll understand both the theory and practice of Flutter animations, and you'll have the skills to bring motion and life to every aspect of your user interface.
