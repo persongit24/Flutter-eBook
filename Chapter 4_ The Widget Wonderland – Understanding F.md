@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 4: The Widget Wonderland – Understanding Flutter's Building Blocks
 
 Welcome to perhaps the most important chapter in your Flutter journey! If you've heard people say "everything in Flutter is a widget," they weren't exaggerating. Widgets are the fundamental building blocks that make up every Flutter user interface. By the end of this chapter, you'll not only understand what widgets are, but you'll be confidently combining them to create beautiful, responsive UIs that work across platforms.
