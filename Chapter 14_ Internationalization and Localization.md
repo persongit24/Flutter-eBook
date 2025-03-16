@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 14: Internationalization and Localization - Making Your Flutter App Global
 
 Welcome to one of the most transformative chapters in your Flutter journey! You've built beautiful UIs, managed state like a pro, written robust tests, and deployed your app to users. But so far, we've been assuming that everyone using your app speaks the same language—which is rarely the case in our interconnected world. By the end of this chapter, you'll understand how to make your Flutter applications speak multiple languages fluently, respect different date and time formats, and adapt to cultural differences across the globe. This isn't just a nice-to-have feature—it's what separates truly professional apps from amateur ones.
