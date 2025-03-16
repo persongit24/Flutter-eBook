@@ -1,4 +1,4 @@
-## Chapter 1: Why Flutter Matters (And Why You Should Care)
+# Chapter 1: Why Flutter Matters (And Why You Should Care)
 
 ### The Mobile Development Problem
 
