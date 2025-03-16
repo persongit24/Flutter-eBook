@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 13: Flutter Testing - Building Robust and Reliable Applications
 
 Welcome to perhaps the most critical yet often overlooked chapter in your Flutter journey! You've built beautiful UIs, managed complex state, integrated with hardware, connected to backends, and organized your code with scalable architecture. But how do you know your app actually works as intended? How can you be confident that your latest changes haven't broken existing functionality? The answer, of course, is testing.
