@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 16: Accessibility - Making Your Flutter Apps Inclusive
 
 Welcome to the final chapter of our Flutter journey! We've explored everything from basic widgets to state management, animations, internationalization, and now we come to perhaps the most important topic of all: accessibility. By the end of this chapter, you'll understand how to make your Flutter applications usable by everyone—regardless of their abilities or disabilities. Making your app accessible isn't just a nice-to-have feature or a regulatory checkbox; it's about respecting the diversity of your users and ensuring everyone can experience the amazing app you've built.
