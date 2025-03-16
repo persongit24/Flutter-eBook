@@ -1,5 +1,7 @@
 # Flutter Development Masterclass: Build Cross-Platform Apps in 2025
 
+![Cover Image](Generated Image March 15, 2025 - 8_47PM.png.jpeg)
+
 ## Book Overview
 
 ### Introduction
