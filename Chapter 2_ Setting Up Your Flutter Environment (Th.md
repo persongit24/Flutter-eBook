@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 2: Setting Up Your Flutter Environment (The Painless Way)
 
 Before we dive into creating amazing Flutter apps, we need to set up our development environment. I know what you're thinking—setup is usually the boring part where everything goes wrong. But I promise to make this as smooth as possible. By the end of this chapter, you'll have a fully functional Flutter development environment and your first app running on a simulator or your own device.
