@@ -1,6 +1,6 @@
 # Flutter Development Masterclass: Build Cross-Platform Apps in 2025
 
-![Cover Image](cover_image.jpeg)
+![Cover Page](cover_image.jpeg)
 
 ## Book Overview
 
