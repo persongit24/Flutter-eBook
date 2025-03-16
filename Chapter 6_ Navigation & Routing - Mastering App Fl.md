@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 6: Navigation \& Routing - Mastering App Flow
 
 Welcome to one of the most practical chapters in our Flutter journey! Navigation is what transforms a collection of screens into an actual app experience. Think about your favorite apps—whether it's Instagram, Spotify, or Uber—their intuitive navigation is a huge part of what makes them feel polished and professional. By the end of this chapter, you'll have the skills to create that same seamless flow in your own Flutter apps.
