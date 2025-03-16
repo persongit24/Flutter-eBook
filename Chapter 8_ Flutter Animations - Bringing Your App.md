@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 8: Flutter Animations - Bringing Your App to Life
 
 Welcome to the chapter that will transform your Flutter apps from "functional" to "delightful"! If you've been following along so far, you've mastered the fundamentals of Flutter, created complex UIs, managed state, built multi-screen apps, and styled your interfaces beautifully. But something's still missing, right? That special sauce that makes users go "Wow!"—animations.
