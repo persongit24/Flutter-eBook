@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Chapter 11: App Deployment - Taking Your Flutter App to the World
 
 Welcome to what might be the most satisfying chapter in our Flutter journey! After weeks or months of coding, debugging, and refining your app, you've finally reached the point where you're ready to share your creation with the world. There's nothing quite like the feeling of seeing your app live in the app stores, accessible to millions of potential users. By the end of this chapter, you'll know exactly how to navigate the sometimes complex process of deploying your Flutter app to both iOS and Android platforms, and you'll even learn how to automate these processes so you can focus on what you do best—building amazing features.
